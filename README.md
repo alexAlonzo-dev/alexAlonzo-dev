@@ -45,5 +45,5 @@ Actualmente estoy estudiando y buscando implementar en mis próximos proyectos:
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** [Alejandro Ramírez Alonzo]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/alejandro-ram%C3%ADrez-alonzo-47862a313/))
+- **LinkedIn:** [Alejandro Ramírez Alonzo](https://www.linkedin.com/in/alejandro-ram%C3%ADrez-alonzo-47862a313/)
 - **Email:** alejandroramirez.dev@outlook.com
