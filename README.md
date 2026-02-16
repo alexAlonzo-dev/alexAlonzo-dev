@@ -44,13 +44,6 @@ Actualmente estoy estudiando y buscando implementar en mis próximos proyectos:
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=alexAlonzo-dev&show_icons=true&theme=tokyonight&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexAlonzo-dev&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 - **LinkedIn:** [Alejandro Ramírez Alonzo]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/alejandro-ram%C3%ADrez-alonzo-47862a313/))
 - **Email:** alejandroramirez.dev@outlook.com
